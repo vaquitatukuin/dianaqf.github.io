@@ -1,0 +1,50 @@
+
+body{
+    background-color: blueviolet;
+}
+
+div{
+    background-color: antiquewhite;
+}
+
+a {
+    text-decoration: none;
+    font-size: 17px;
+}
+
+p{
+    font-size: 17px;
+}
+a:hover{
+
+    color:#0d6efd;
+}
+i{
+    font-size: 25px;
+}
+h4{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.btn-primary {
+
+    background-color: rgb(158, 31, 196);
+
+    border-color:rgb(158, 31, 196) ;
+}
+.btn-primary:hover {
+
+    background-color: rgb(160, 71, 187);
+
+    border-color: rgb(160, 71, 187);
+}
+
+.btn-primary:active {
+
+    background-color: rgb(160, 71, 187) !important;
+
+    border-color: rgb(160, 71, 187) !important;
+}
+
+
